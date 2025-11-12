@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+    <title>Duty System</title>
+</head>
+<body>
+    <div id="blur"></div>
+    <div id="duty-container" class="hidden">
+        <h2>Select Your Duty</h2>
+        <div class="buttons">
+            <button id="police" class="btn police"><img src="https://cdn-icons-png.flaticon.com/512/3097/3097144.png">Police</button>
+            <button id="fire" class="btn fire"><img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png">Fire</button>
+            <button id="ambulance" class="btn ambulance"><img src="https://cdn-icons-png.flaticon.com/512/2965/2965567.png">Ambulance</button>
+        </div>
+        <button id="close" class="close-btn">Close</button>
+    </div>
+
+    <div id="callsign-popup" class="hidden">
+        <h3>Enter Your Callsign</h3>
+        <input id="callsign-input" type="text" placeholder="e.g., A12 or F23">
+        <button id="submit-callsign">Confirm</button>
+    </div>
+</body>
+</html>
