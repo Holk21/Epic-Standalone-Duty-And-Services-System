@@ -1,2 +1,2 @@
 # Epic-Standalone-Duty-And-Services-System
-Kia Ora Here is My Epic Standalone Duty And Services System That Works With okok Notify 
+Kia Ora Everyone Here Is My New Standalone Duty System Works For Standalone Were Players Can Do /Duty Were a Epic Panel Will Pop Up Were They Can Select What Services They wanna Be Were They Can Also Add There call Sigh Once Done They Will be On duty As That Department They Can also Do /services Were They Can See In The Chat How many Players Are On As That Department This Allso Works With Okok Notify
